@@ -1,6 +1,6 @@
 # main.css
 main
-BODY {
+ BODY {
     font-size: 12px;
  	font-family:Arial,Helvetica,sans-serif,Verdana,Geneva;
     margin: auto;
@@ -228,11 +228,11 @@ h1 a:hover {
 .right-heading {
 	width:100%;
   height:32px;
-   background:#86b3ab;
+   background:#000000;
 }
 
 .right-heading h1 {
-   background:#1d5069;
+   background:#000000;
   	width:100%;
 color:#FFFFFF;
   height:32px;
@@ -250,7 +250,7 @@ color:#FFFFFF;
   font-size:11px;
 }
 .et-info .et-box-content {
-  background:#f7f4b4 url(http://4.bp.blogspot.com/-fTvWorFZW7A/VUHC2uqSc_I/AAAAAAAAB1k/4bMiL0qvNh0/s1600/pkXYg.png) no-repeat 18px 13px;
+  background:#f7f4b4 url() no-repeat 18px 13px;
   border:1px solid #ffffea;
 }
 
@@ -267,7 +267,7 @@ color:#FFFFFF;
   font-weight:bold !important;
   color:#fff !important;
   line-height:1;
-  background-image:url(http://xemtivi.biz/logo/RadcNI1.png);
+  background-image:url();
   background-repeat:repeat-x;
   background-position:0 0;
   text-shadow:0 -1px 1px rgba(0,0,0,0.25),-2px 0 1px rgba(0,0,0,0.25);
@@ -372,7 +372,7 @@ color:#FFFFFF;
   border: medium none;
 }
 .nav-tabs > li > a:active{
-	background:-webkit-gradient(linear,0% 0%,0% 100%,from(#86b3ab),to(#5dadef));
+	background:-webkit-gradient(linear,0% 0%,0% 100%,from(#000000),to(#5dadef));
   border-color:#933233;
   	color: #004f7c;
 	text-shadow: 0 1px 1px rgba(255, 255, 255, .55);
@@ -425,7 +425,4 @@ color:#FFFFFF;
 .top_chart .t_c_info .tc_i_n {
     font-size: 13px;
     font-weight: 830;
-}
-.sprites {
-    background-image: url("https://4.bp.blogspot.com/-W_SKTP8f4R8/W1yB_b_2CII/AAAAAAAACk4/R-UrL0JYSZc2dQEm2trnhcLkfSTGW4OLACLcBGAs/s1600/xemtivitructuyen.png");
 }
